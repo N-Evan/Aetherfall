@@ -3,7 +3,12 @@ guid: ed48ee0ccdd86f346ab82aeea1d981a0
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: MocapSuit02_diffuse
+    second: {fileID: 2800000, guid: 620458dda2421f54f89a0d3688eb146e, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
